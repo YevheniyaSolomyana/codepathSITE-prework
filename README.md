@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]<img src='MemoryGameLose.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](gif2-link-here)
-![](gif3-link-here)
+![<img src='SimpleTweet2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](gif1-link-here)
+![<img src='MemoryGameWin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](gif2-link-here)
+![<img src='Start_Stop.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
