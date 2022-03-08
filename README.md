@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src='SimpleTweet2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='MemoryGameLose.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='MemoryGameWin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='Start_Stop.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![](gif4-link-here)
