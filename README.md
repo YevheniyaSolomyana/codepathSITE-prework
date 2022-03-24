@@ -63,7 +63,7 @@ I would add a theme to the game, such as The Walking Dead or Star Wars. You coul
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://ccny.zoom.us/rec/share/sS1igAFtW5P_u_JeiovO3xEy3dAExZxDo5qrPNfFbU423zS4wPTfOYNgYN8HUQsM.95ACccaWf3DEarf8)
 
 
 ## License
