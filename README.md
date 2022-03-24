@@ -57,7 +57,7 @@ Some parts of the tutorial were outdated, such as the starting page of the Glitc
 It amazes me that the creation of websites takes three languages which basically communicate and engage with one another. Moreover, it is possible to create games and I wonder what else there is! I am curious to know the process of communication that happens behind HTML, CSS and JavaScript. Overall, it excites me to know what other features can be done with them.  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would add a theme to the game, such as The Walking Dead or Star Wars. You could play a game with your favorite characters, instead of buttons. The game is also designed to the theme accordingly, including background, character phrases, tokens, etc. In addition, there could be a hint feature which will tell the player what is the next sound is supposed to be played. This could be very useful for long patterns. 
+I would add a theme to the game, such as The Walking Dead or Star Wars. You could play a game with your favorite characters, instead of buttons. The game is also designed to the theme accordingly, including background, character phrases, tokens, etc. In addition, there could be a hint feature which would tell the player what the next sound is supposed to be played. This could be very useful for long patterns. 
 
 
 
